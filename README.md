@@ -9,3 +9,5 @@ A repository with links to all the dashboards I created.
 #### 2nd Dashboard: [My Pet Shop](https://app.powerbi.com/view?r=eyJrIjoiYWY1YTc3OGQtZmQ3MC00ZGQwLWJjMjAtYmQ4ZTU2YjIyMjcwIiwidCI6ImZhZGVjM2FjLTQxNjYtNGZlYS04OTc2LWU0YTUwZmZkMGY1YyIsImMiOjR9&pageName=ReportSection)
 
 #### 3rd Dashboard: [Clube do Livro](https://app.powerbi.com/view?r=eyJrIjoiZDQ2YWU4YmItMTk4ZS00ZWM5LThmN2MtYmI4NjdlYjQwODEzIiwidCI6ImZhZGVjM2FjLTQxNjYtNGZlYS04OTc2LWU0YTUwZmZkMGY1YyIsImMiOjR9)
+
+#### 4th Dashboard: [E-commerce no Brasil](https://app.powerbi.com/view?r=eyJrIjoiMWE3ZmJlMjktMDQzMi00MTZlLTkwYjQtNWRkM2VhMTg2Y2M1IiwidCI6ImZhZGVjM2FjLTQxNjYtNGZlYS04OTc2LWU0YTUwZmZkMGY1YyIsImMiOjR9)
